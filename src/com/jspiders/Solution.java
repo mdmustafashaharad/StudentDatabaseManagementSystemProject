@@ -11,7 +11,8 @@ import com.customException.InvalidChoiceException;
  * @since 2022
  * 
  * We are calling methods for user
- *
+ * while loop is helps to repeated the given proggram untill the condition will false
+ * switch condition is helps for users choice
  */
 
 public class Solution {

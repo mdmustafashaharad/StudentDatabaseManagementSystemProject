@@ -1,5 +1,13 @@
 package com.sortinglogic;
 
+/**
+ * 
+ * @author Mohammad Mustafa
+ * @since 2023
+ * 
+ * Achieved sorting logic by using comparator
+ */
+
 import java.util.Comparator;
 import com.jspiders.StudentAttribute;
 

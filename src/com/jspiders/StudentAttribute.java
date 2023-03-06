@@ -1,5 +1,11 @@
 package com.jspiders;
-
+/**
+ * 
+ * @author Mohammad Mustafa
+ * @since 2023
+ * 
+ * creating StudentAttribute class. it helps to generating object for each student
+ */
 public class StudentAttribute {
 	
 	private String id;
